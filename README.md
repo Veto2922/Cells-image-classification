@@ -4,6 +4,11 @@
 
 This project aims to classify cell images as either parasitized or uninfected using a Convolutional Neural Network (CNN). The dataset consists of cell images with labels indicating whether the cells are parasitized by the malaria parasite or not. The goal is to build and train a CNN model that can accurately classify the cell images.
 
+![image](https://github.com/Veto2922/Cells-image-classification/assets/114834171/6b9850bf-6287-45a1-9103-cc8cc51e9ffb)
+
+
+Data source : https://drive.google.com/file/d/1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb/view
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -86,10 +91,4 @@ We demonstrate how to preprocess a new image and use the trained model to predic
 
 The model achieves a certain level of accuracy on the test dataset. Detailed classification metrics, including precision, recall, and F1-score, are provided in the evaluation section.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License.
